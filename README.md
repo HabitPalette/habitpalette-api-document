@@ -4,7 +4,7 @@
 
 ## login
 
-HabitPalette는 구글, 애플 소셜 로그인만 사용합니다.
+HabitPalette는 구글, 애플 소셜 로그인을 사용합니다.
 
 https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
 
