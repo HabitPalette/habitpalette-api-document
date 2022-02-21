@@ -6,6 +6,7 @@ HabitPalette는 구글, 애플 소셜 로그인을 사용합니다.
 
 https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
 
+<br><br>
 
 ## 2. habit (습관)
 
@@ -67,6 +68,7 @@ DELETE
 
 https://github.com/HabitPalette/habitpalette-api-document/blob/main/habits/habit/README.md
 
+<br><br>
 
 ## 3. habitMemo (매일 습관 메모)
 
@@ -86,7 +88,5 @@ description: 해당 id 가진 습관메모(1일별) 하나를 불러오는 API�
 ```text
 GET
 ```
-
-
 
 https://github.com/HabitPalette/habitpalette-api-document/blob/main/habits/habitMemo/README.md
