@@ -10,72 +10,57 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
 ## habit (습관)
 
 
-### list
+### list - 습관 게시물 목록 불러오기 
 
 ---
 description: 해당 id 가진 습관 게시물을 목록을 불러오는 API입니다.
 ---
 
-# 습관 게시물 목록 불러오기 
-
-## METHOD
 ```text
 GET
 ```
 
 
-### post
+### post - 습관 게시물 생성
 
 ---
 description: 습관 게시물을 생성하는 API입니다. 
 ---
 
-# 습관 게시물 생성
-
-## METHOD
 ```text
 POST
 ```
 
 
 
-### get
+### get - 습관 게시물 1개 불러오기 
 
 ---
 description: 해당 id 가진 습관 게시물을 불러오는 API입니다.
 ---
 
-# 습관 게시물 1개 불러오기 
-
-## METHOD
 ```text
 GET
 ```
 
 
-### put
+### put - 습관 게시물 수정
 
 ---
 description: 해당 id 가진 습관 게시물을 수정하는 API입니다.
 ---
 
-# 습관 게시물 수정
-
-## METHOD
 ```text
 PUT
 ```
 
 
-### delete
+### delete - 습관 게시물 삭제
 
 ---
 description: 해당 id 가진 습관 게시물을 삭제하는 API입니다.
 ---
 
-# 습관 게시물 삭제
-
-## METHOD
 ```text
 DELETE
 ```
