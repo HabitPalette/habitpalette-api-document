@@ -63,7 +63,7 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
     <td>습관을 수정한다. 제목과 색깔만 변경할 수 있다.</td>
     <td>
     "{<br>
-      "authorEmail": "aaaaa@email.com",<br>
+      "authorEmail": "aaaa@email.com",<br>
       "title": "공부하기",<br>
       "color": Enum? string<br>
     }"<br>
@@ -84,3 +84,32 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
 <br><br>
 
 ## 3. 습관 메모
+
+<table>
+  <tr>
+    <th>URL</th>
+    <th>Method</th>
+    <th>제목</th>
+    <th>설명</th>
+    <th>Request Body</th>
+    <th>Response Body</th>
+  </tr>
+  
+  <tr>
+    <td>/habits/:id/habitmemos</td>
+    <td>POST</td>
+    <td>습관메모 생성</td>
+    <td>
+      매일 쓰는 습관 메모를 생성합니다.<br>
+      익일 새벽 5시까지만 작성 가능.
+    </td>
+    <td>
+    "{<br>
+      "authorEmail": "aaaa@email.com",<br>
+      "score": 5,<br>
+      "content"": "공부 열공함"<br>
+    }"<br>
+    </td>
+    <td></td>
+  </tr>
+</table>
