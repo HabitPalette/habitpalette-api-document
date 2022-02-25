@@ -40,7 +40,7 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
     <td>습관을 생성한다.</td>
       <td>
       "{
-        "authorEmail": "aaaa@email.com",
+        "authorEmail": "aaaa@email.com",<br>
         "title": "공부하기",
         "createdDate": dateType으로
         "duration": 30,
