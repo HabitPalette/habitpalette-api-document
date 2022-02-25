@@ -40,13 +40,14 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
     <td>습관을 생성한다.</td>
       <td>
       "{
-    "authorEmail": "thdmsdl87@gmail.com",
-    "title": "공부하기",
-    "createdDate": dateType으로
-    "duration": 30, 
-    "color": Enum? string
-    }"
+        "authorEmail": "aaaa@email.com",\n
+        "title": "공부하기",\n
+        "createdDate": dateType으로\n
+        "duration": 30, \n
+        "color": Enum? string\n
+       }"
     </td>
+    <td></td>
   </tr>
   
   <tr>
@@ -54,6 +55,8 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
     <td>GET</td>
     <td>습관 조회</td>
     <td>습관 1개를 조회한다.</td>
+    <td></td>
+    <td></td>
   </tr>
   
   <tr>
@@ -61,6 +64,14 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
     <td>PUT</td>
     <td>습관 수정</td>
     <td>습관을 수정한다. 제목과 색깔만 변경할 수 있다.</td>
+    <td>
+    "{
+      "authorEmail": "thdmsdl87@gmail.com",
+      "title": "공부하기",
+      "color": Enum? string
+    }"
+    </td>
+    <td></td>
   </tr>
   
   <tr>
@@ -68,6 +79,8 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
     <td>DELETE</td>
     <td>습관 삭제</td>
     <td>습관을 삭제한다.</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
