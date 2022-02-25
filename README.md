@@ -40,11 +40,11 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
     <td>습관을 생성한다.</td>
       <td>
       "{
-        "authorEmail": "aaaa@email.com",&nbsp;
-        "title": "공부하기",&nbsp;
-        "createdDate": dateType으로&nbsp;
-        "duration": 30,&nbsp;
-        "color": Enum? string&nbsp;
+        "authorEmail": "aaaa@email.com",
+        "title": "공부하기",
+        "createdDate": dateType으로
+        "duration": 30,
+        "color": Enum? strig
        }"
     </td>
     <td></td>
@@ -66,7 +66,7 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
     <td>습관을 수정한다. 제목과 색깔만 변경할 수 있다.</td>
     <td>
     "{
-      "authorEmail": "thdmsdl87@gmail.com",
+      "authorEmail": "aaaaa@email.com",
       "title": "공부하기",
       "color": Enum? string
     }"
