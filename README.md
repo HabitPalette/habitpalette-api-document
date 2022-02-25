@@ -26,6 +26,8 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
     <td>GET</td>
     <td>전체 습관 조회</td>
     <td>습관 전체 목록을 조회한다.</td>
+    <td></td>
+    <td></td>
   </tr>
   
   <tr>
@@ -50,7 +52,7 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
     <td>GET</td>
     <td>습관 조회</td>
     <td>습관 1개를 조회한다.</td>
-    <td>X</td>
+    <td></td>
     <td></td>
   </tr>
   
@@ -74,7 +76,7 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
     <td>DELETE</td>
     <td>습관 삭제</td>
     <td>습관을 삭제한다.</td>
-    <td>X</td>
+    <td></td>
     <td></td>
   </tr>
 </table>
