@@ -81,5 +81,6 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
   </tr>
 </table>
 
+<br><br>
 
-
+## 3. 습관 메모
