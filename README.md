@@ -17,14 +17,14 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
 
 
 <table>
-  <th>
-    <td>URL</td>
-    <td>Method</td>
-    <td>제목</td>
-    <td>설명</td>
-    <td>Request Body</td>
-    <td>Response Body</td>
-  </th>
+  <tr>
+    <th>URL</th>
+    <th>Method</th>
+    <th>제목</th>
+    <th>설명</th>
+    <th>Request Body</th>
+    <th>Response Body</th>
+  </tr>
   
   <tr>
     <td>/habits/list</td>
