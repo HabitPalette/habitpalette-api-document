@@ -40,11 +40,11 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
     <td>습관을 생성한다.</td>
       <td>
       "{
-        "authorEmail": "aaaa@email.com",\n
-        "title": "공부하기",\n
-        "createdDate": dateType으로\n
-        "duration": 30, \n
-        "color": Enum? string\n
+        "authorEmail": "aaaa@email.com",&nbsp;
+        "title": "공부하기",&nbsp;
+        "createdDate": dateType으로&nbsp;
+        "duration": 30,&nbsp;
+        "color": Enum? string&nbsp;
        }"
     </td>
     <td></td>
