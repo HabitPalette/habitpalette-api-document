@@ -1,8 +1,10 @@
-# habitpalette-api-document
+# habitpalette-document
+
+## 1. habitpalette-api-document
 
 python - django / MS SQL
 
-## 1. login
+### 1. login
 
 HabitPalette는 구글, 애플 소셜 로그인을 사용합니다.
 
@@ -10,7 +12,7 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
 
 <br><br>
 
-## 2. habit (습관)
+### 2. habit (습관)
 
 
 <table>
@@ -85,7 +87,7 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
 
 <br><br>
 
-## 3. 습관 메모
+### 3. 습관 메모
 
 <table>
   <tr>
@@ -119,9 +121,9 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
 
 <br><br><br>
 
-# habitpalette-db-document
+## 2. habitpalette-db-document
 
-## habits
+### 1. habits
 
 <table>
   <tr>
@@ -195,7 +197,7 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
 
 <br>
 
-## users
+### 2. users
 
 <table>
   <tr>
@@ -244,7 +246,7 @@ https://github.com/HabitPalette/habitpalette-api-document/blob/main/login
 
 <br>
 
-## habit history
+### 3. habit history
 
 <table>
   <tr>
